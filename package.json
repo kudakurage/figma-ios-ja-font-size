@@ -1,0 +1,15 @@
+{
+  "name": "iOS ja system font size",
+  "version": "1.0.0",
+  "description": "選択したテキストレイヤーに対して、iOSのSystemフォントにあった日本語フォントのサイズを計算しレイヤー名に追加します。（レイヤー名の先頭に`*`が入っている場合は指定した通りのフォントサイズを追加します。）",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Kaz Motoyama / @kudakurage",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.47.0",
+    "typescript": "*"
+  }
+}

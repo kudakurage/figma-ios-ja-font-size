@@ -1,0 +1,19 @@
+{
+  "name": "iOS ja system font size",
+  "id": "1111160415054172271",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "menu": [
+    {
+      "name": "Integer",
+      "command": "renameIntegerSize"
+    },
+    {
+      "name": "float",
+      "command": "renameFloatSize"
+    }
+  ]
+}
